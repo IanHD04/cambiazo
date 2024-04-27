@@ -1,5 +1,4 @@
 {
-  "categories": [
     "ongs": [
       { "name": "Cuidado de animales", "id": "1" },
       { "name": "Educación", "id": "2" },
@@ -33,6 +32,5 @@
       { "name": "Cultura", "id": "19" },
       { "name": "Sonido", "id": "20" },
       { "name": "Servicio profesional", "id": "21" }
-    ]
   }
 }
