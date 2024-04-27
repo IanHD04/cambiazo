@@ -1,5 +1,6 @@
 {
-  "categories": {
+  "categories": [
+    {
     "ongs": [
       { "name": "Cuidado de animales", "id": "1" },
       { "name": "Educación", "id": "2" },
@@ -10,7 +11,9 @@
       { "name": "Tecnología y acceso a la información", "id": "7" },
       { "name": "Migración y refugiados", "id": "8" },
       { "name": "Prevención y tratamiento de adicciones", "id": "9" }
-    ],
+    ]
+    },
+    {
     "products": [
       { "name": "Alimentación", "id": "1" },
       { "name": "Hogar", "id": "2" },
@@ -34,5 +37,6 @@
       { "name": "Sonido", "id": "20" },
       { "name": "Servicio profesional", "id": "21" }
     ]
-  }
+    }
+  ]
 }
