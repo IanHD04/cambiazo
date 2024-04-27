@@ -1,4 +1,5 @@
 {
+  "categories": {
     "ongs": [
       { "name": "Cuidado de animales", "id": "1" },
       { "name": "Educación", "id": "2" },
@@ -34,3 +35,4 @@
       { "name": "Servicio profesional", "id": "21" }
     ]
   }
+}
